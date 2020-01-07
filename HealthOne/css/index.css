@@ -1,0 +1,36 @@
+.jumbotron{
+    margin-bottom: 0;
+    background-image: url(../img/zilverenkruis_jumbotron.png);
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+.navbrand{
+    width:40px;
+}
+
+.col-sm-4{
+    padding: 30px;
+}
+.p{
+    margin-top: 20px;
+ }
+
+a{
+    color: black;
+}
+
+/*
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+*/
+a button {
+    margin-left: 2px;
+}
